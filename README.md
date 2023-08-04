@@ -15,20 +15,11 @@ Other features include: editing the dog's profile, modifying the user settings, 
 This project is our Portfolio Project, concluding our Foundations Year at Holberton School. We were able to choose who we wanted to work with and what we wanted to work on, as long as we present a working program at the end of the three weeks of development.
 
 ## The Team
-We are three dog enthusiasts who are passionate about coding but also like to keep it fun!
+Just me! 
+Jeffrey Awuah Otu - twitter.com/Jeff_Jaay
 
-* **Marc Cavigli** [@MarcCavigli](https://twitter.com/MarcCavigli) - Singer, Musician, song-writer and composer, but also a very talented Software Engineer.
-* **Drew Maring** [@drewmaring](https://twitter.com/drewmaring) - Dog owner and great Software Engineer, formerly working at Docker as a Solutions Architect / Technical Account Manager.
-* **Laura Roudge** [@LRoudge](https://twitter.com/LRoudge) - Former Dancer and Comedian, the "french touch" Software Engineer of the team.
-
-Follow us on Twitter for more dog and tech related awesomeness!
-
-## Blog posts
+#e Blog posts
 After the development phase, we each wrote a blog post to reflect on the PuppR journey.
-
-* Marc's article: [PuppR: It’s Like Tinder For Dogs](https://medium.com/@mcavigli/puppr-its-like-tinder-for-dogs-c498bf4bdd9b)
-* Drew's article: [PuppR: The social app for dog people](https://medium.com/@andrew.maring/puppr-the-social-app-for-dog-people-dcdb1c496f29)
-* Laura's article: [PuppR: Learnings from building a dating site for dogs](https://medium.com/@laura.derohan/learnings-from-building-a-dating-site-for-dogs-70f4d649f2b3)
 
 # Tutorial
 
